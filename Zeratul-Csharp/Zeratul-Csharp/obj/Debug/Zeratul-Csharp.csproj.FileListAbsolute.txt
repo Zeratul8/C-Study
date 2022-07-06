@@ -1,0 +1,7 @@
+D:\Zeratul-Csharp\Zeratul-Csharp\bin\Debug\Zeratul-Csharp.exe.config
+D:\Zeratul-Csharp\Zeratul-Csharp\bin\Debug\Zeratul-Csharp.exe
+D:\Zeratul-Csharp\Zeratul-Csharp\bin\Debug\Zeratul-Csharp.pdb
+D:\Zeratul-Csharp\Zeratul-Csharp\obj\Debug\Zeratul-Csharp.csproj.CoreCompileInputs.cache
+D:\Zeratul-Csharp\Zeratul-Csharp\obj\Debug\Zeratul-Csharp.exe
+D:\Zeratul-Csharp\Zeratul-Csharp\obj\Debug\Zeratul-Csharp.pdb
+D:\Zeratul-Csharp\Zeratul-Csharp\obj\Debug\Zeratul-Csharp.csprojAssemblyReference.cache

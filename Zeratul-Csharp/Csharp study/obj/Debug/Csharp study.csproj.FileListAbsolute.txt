@@ -1,0 +1,6 @@
+D:\Zeratul-Csharp\Csharp study\bin\Debug\Csharp study.exe.config
+D:\Zeratul-Csharp\Csharp study\bin\Debug\Csharp study.exe
+D:\Zeratul-Csharp\Csharp study\bin\Debug\Csharp study.pdb
+D:\Zeratul-Csharp\Csharp study\obj\Debug\Csharp study.csproj.CoreCompileInputs.cache
+D:\Zeratul-Csharp\Csharp study\obj\Debug\Csharp study.exe
+D:\Zeratul-Csharp\Csharp study\obj\Debug\Csharp study.pdb
